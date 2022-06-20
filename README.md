@@ -1,0 +1,2 @@
+# NuxtJS
+Created with CodeSandbox
